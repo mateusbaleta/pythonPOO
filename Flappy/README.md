@@ -1,13 +1,14 @@
 # Python Projects
 
-Random python projects I am currently working on...
+Python Flappy Bird
 
 ![alt text](https://github.com/babyboydaprince/NukeTown/blob/main/img/logo.png?raw=true)
+
 
 ## 🚀 Run
 
  ```
-It might but it might not to
+Comming soon...
  ```
 ### 📋 Prerequisites
 

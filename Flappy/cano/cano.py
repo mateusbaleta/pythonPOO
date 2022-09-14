@@ -1,0 +1,3 @@
+
+class Cano:
+    pass
