@@ -2,7 +2,7 @@
 
 Python Flappy Bird
 
-![alt text](https://github.com/babyboydaprince/NukeTown/blob/main/img/logo.png?raw=true)
+![alt text](https://github.com/mateusbaleta/pythonPOO/blob/main/Flappy/logo/logogit.jpg?raw=true)
 
 
 ## 🚀 Run
