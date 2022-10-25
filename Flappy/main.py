@@ -3,7 +3,7 @@ import os
 import random
 
 
-# Constantes
+"""Constantes"""
 TELA_LARGURA = 500
 TELA_ALTURA = 800
 
