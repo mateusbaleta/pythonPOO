@@ -2,7 +2,7 @@
 
 Random python projects I am currently working on...
 
-![alt text](https://github.com/mateusbaleta/pythonPOO/blob/main/img/logo.png?raw=true)
+![alt text](https://github.com/mateusbaleta/pythonPOO/blob/main/img/pythonlogo.png?raw=true)
 
 ## 🚀 Run
 
