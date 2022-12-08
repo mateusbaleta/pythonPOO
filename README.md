@@ -1,6 +1,6 @@
-# Python Projects
+# Python training
 
-Random python projects I am currently working on...
+Random python training...
 
 ![](https://github.com/mateusbaleta/pythonPOO/blob/main/img/python.png?raw=true)
 
@@ -11,7 +11,7 @@ It might but it might not to
  ```
 ### 📋 Prerequisites
 
-- Python
+- Python 3
 
 
 ### 🔧 Installation
@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ## 🛠️ Made with
 
-- Python 3.9
+- Python 3
 
 
 ⌨️ Made with ❤
